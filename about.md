@@ -8,7 +8,12 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+IT에 관심이 많은 내화물 기술자입니다.
+내화물에 IT를 접목해서 활용하는 것이 목적입니다.
+
+이 블로그는 내화물 관련 기술에 대한 기록을 목적으로 합니다. 
+
+의견 있으시면 메일로 남겨 주시기 바랍니다. 
 
 ### Contact me
 
