@@ -19,7 +19,8 @@ rupture of the steel at the interface zone.
 This is due to the combination of stress and high temperatures at that location.
 
 이것은 그 위치에서 고온과 응력의 조업에 의한 것이다.
-쳐쳐
+
+
 Given a high enough stress, the anchor material will yield in a short amount of time (e.g. minutes), or at lower stress levels, the anchor will deform and fracture due to 
 creep mechanisms over a longer time (e.g. hundreds or thousands of hours). 
 
