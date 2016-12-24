@@ -1,5 +1,9 @@
 
-
+---
+layout: post
+title:  "Github Pages 에 올리는 첫 글"
+date:   2016-02-14 10:59:00
+---
 
 ## Failure Analysis of Refractory Anchors of a Power Boiler ##
 
