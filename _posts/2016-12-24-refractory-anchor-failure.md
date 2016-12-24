@@ -34,5 +34,5 @@ date:   2016-12-24 18:58:00
 
 
 
-> 상기 내용은 "Failure Analysis of Refractory Anchors of a Power Boiler"를 일부 번역한 것이며,문헌 내용의 주소는 아래와 같음<http://www.sciencedirect.com/science/article/pii/S1877705814020736>
+> 상기 내용은 "Failure Analysis of Refractory Anchors of a Power Boiler"를 일부 번역한 것이며,문헌 내용의 주소는 아래와 같음   <http://www.sciencedirect.com/science/article/pii/S1877705814020736>
 <address@www.sciencedirect.com/science/article/pii/S1877705814020736>
