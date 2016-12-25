@@ -23,4 +23,4 @@ Jykell을 통해서 Git으로 post를 등록하는 절차
 > (여기서는 생략한다.)
 
 참고한 블로그들....
-[Jekyll 공식 홈페이지(한글)][http://jekyllrb-ko.github.io/]
+[Jekyll 공식 홈페이지(한글)](http://jekyllrb-ko.github.io/)
