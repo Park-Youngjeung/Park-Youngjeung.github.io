@@ -238,3 +238,6 @@
 12. Mechanical and Physical Properties of Austenitic Chromium–Nickel Stainless Steels at Ambient Temperature, INCO Publication 2978, 1978.
 13. Haynes International Inc. Technical Information Oxidation Resistance of HAYNES® High-Temperature Alloys, report H3022, 1992.
 14. Leffler Béla, STAINLESS - Stainless Steels and Their Properties, www.outokumpu.com/files/Group/HR/Documents/STAINLESS20.pdf
+
+
+[원본 문서](http://s3.amazonaws.com/zanran_storage/www.ranews.info/ContentPages/53669702.pdf)
