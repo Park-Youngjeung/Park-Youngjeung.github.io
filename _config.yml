@@ -76,3 +76,8 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+
+# Google Analytics
+google_analytics_id: UA-90252834-1
+
