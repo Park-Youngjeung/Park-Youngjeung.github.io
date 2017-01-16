@@ -13,7 +13,7 @@ date:   2017-01-17 10:15:00
 
 ## 프로프레젠터가 알려주는 파워포인트 보고서 디자인 기술
 
-![Alt text](/home/Jekyll/mysite/Park-Youngjeung.github.io/images/20170117-1.jpg)
+({{Park-Youngjeung.github.io}}/images/20170117-1.jpg)
 
 7page
 
