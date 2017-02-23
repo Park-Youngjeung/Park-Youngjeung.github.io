@@ -54,16 +54,19 @@ Tongda Refractoriness Technology Co., LTD, Beijing 100000
 ### 3.1 유한요소 CAE 모델의 설립(The Establishment of Finite Element CAE Model)
 
 
-우리는 베이징 Tongda 내화물 기술 유한 책임 회사가 제공하는 시멘트 버너의 2 차원 도면에 따라 유한 요소 모델을 설정합니다. 이 논문은 주로 CAE 방법에 의한 시멘트 버너의 손상 원인에 초점을 맞추기 때문에 가장 쉽게 손상되고 가마에 삽입되는 시멘트 버너의 끝 부분을 고려한다.
-버너 끝 부분의 1/4 부분은 축 대칭 때문에 열 응력 분석을 위해 모델링되고 시뮬레이션됩니다. 유한 요소 모델을 수립하는 과정에서 모든 구조물은 6 면체 요소를 사용하여 메쉬 생성을하고, 버너, 캐스터 블 및 앵커의 강관 중 접촉부에 접촉 요소를 설정했습니다.
-확립 된 시멘트 버너의 CAE 모델은 Fig. 5-7 :
+우리는 베이징 Tongda 내화물 기술 유한 책임 회사가 제공하는 시멘트 버너의 2 차원 도면에 따라 유한 요소 모델을 설정하였다. 이 논문은 주로 CAE 방법에 의한 시멘트 버너의 손상 원인에 초점을 맞추기 때문에 가장 쉽게 손상되고 노(kiln)에 들어가는 시멘트 버너의 끝 부분을 고려한다.
+축 대칭이므로 버너 끝 부분의 1/4 부분을 열 응력 분석을 위해 모델링되고 시뮬레이션하였다. 유한 요소 모델을 수립하는 과정에서 모든 구조물은 6 면체 요소를 사용하여 메쉬를 하고, 버너의 강관 중 캐스터블 및 앵커의 접촉부에는 접촉 요소를 설정했습니다.
+
+설정된 시멘트 버너의 CAE 모델은 Fig. 5-7에 나타내었다.
+
+
 
 
 ### 3.2 온도장(Temperautre Field)의 시뮬레이션 분석
 
 
-버너의 전체 시멘트 버너, 캐스터 블, 앵커 및 강관의 온도 장을 Fig. 8 ~ 10.
-Fig. 8 및 그림. 도 9로부터 알 수 있듯이, 강관 내면의 저온에서 주조 재의 내면의 고온까지 균일하게 온도가 변화하는 것을 관찰 할 수있다 [6]. 더욱이, 캐스터 블의 외부 표면 온도는 왼쪽에서 오른쪽으로 (캐스터 블 엔드) 증가하는 경향이있다. 무화과. 도 10은 기저부에서 상부로 앵커를 따라 온도가 상승하는 것을 도시한다. 그리고이 온도는 976 ° C까지 올라갈 수 있습니다.
+전체 시멘트 버너, 캐스터블, 앵커 및 강관의 온도장을 Fig. 8 ~ 10.에 나타내었다.
+Fig. 8 및 Fig. 9로부터 알 수 있듯이, 온도는 강관 내부 표며네서 낮은 온도로부터 캐스타블 표면의 높은 온도로 일정하게 변하는 것을 관찰할 수 있다[6]. 더욱이, 캐스터블의 외부 표면 온도는 왼쪽에서 오른쪽(캐스터블 선단)으로 증가하는 경향이 있다. Fig. 10은 기저부에서 상부 선단으로 앵커를 따라 온도가 상승하는 것을 도시한다. 그리고 이 온도는 976 °C까지 올라갈 수 있습니다.
 
 
 ## 3.3 열응력장(Thermal Stress Field)의 시뮬레이션 분석의 결과
@@ -71,39 +74,38 @@ Fig. 8 및 그림. 도 9로부터 알 수 있듯이, 강관 내면의 저온에�
 ### 3.3.1 모델의 변위 분포 구름 차트(Displacement Distribution Cloud Charts of the Model)
 
 
-무화과. 11은 전체 버너의 변위 분포를 나타냅니다.
-주조 가능 단부에서의 변위 변형이 상대적으로 더 커지며, 주조 가능 파이프와 강철 파이프 사이의 계면에서 캐스터 블의 외부 표면으로 증가한다.
-Fig. 도 12에 도시 된 바와 같이, 앵커가 펼쳐지는 경향이 있고 앵커 중 일부가 팽창하여 직경이 커지는 경향이 있음을 알기는 어렵지 않다.
-
+Fig. 11은 전체 버너의 변위 분포를 나타냅니다.
+캐스터블 선단부에서의 변위 변형이 상대적으로 더 커지며, 캐스터블과 강관사이 계면에서부터 캐스터블 외부 표면으로 증가하는 것을 보여준다.
+Fig. 12로부터, 앵커가 펼쳐지는 경향이 있고 앵커 중 일부가 팽창하여 직경이 커지는 경향이 있음을 알기는 어렵지 않다.
 
 ### 3.3.2 모델들의 응력 분포 구름 차트(The stress Distribution Cloud Charts of the Models)
 
-무화과. 도 13의 도 15는 버너 내의 캐스터 블, 앵커 및 강관의 응력 분포를 나타낸다. 위치 된 주조물에서 상대적으로 더 큰 응력이 Fig. 3에서와 같이 앵커 뿌리와의 연결부에있는 부분. 13.
-이것은 앵커가 캐스터 블 [7]의 팽창 변형을 방해하기 때문이다. 이는 캐스터 블과 앵커 사이의 상호 작용이 앵커가 캐스터 블에 의해 의도적으로 늘어나 기 때문에 그림 1에 나타낸 버너의 강관에 용접 된 앵커의 뿌리 부분에 응력 집중을 유발하기 때문입니다. 14 [8]. 최대 응력은 1530 MPa까지 도달 할 수 있습니다. 더욱이, 앵커의 변형은 시멘트 버너에서 강관의 변형으로 이어져서 Fig. 15.
+Fig. 13 - Fig. 15는 버너 내의 캐스터블, 앵커 및 강관의 응력 분포를 각각 나타낸다. 캐스터블 내에서 상대적으로 더 큰 응력이 위치하는 부위는 Fig. 13에서와 같이 앵커 뿌리와의 연결부에있는 부분이다. 이는 주로 앵커가 캐스터블의 팽창 변형을 방해하기 때문이다[7]. 이는 앵커가 캐스터블에 의해 의도적으로 늘어나는 캐스터블과 앵커 사이의 상호 작용때문에, 버너의 강관에 용접된 앵커의 뿌리 부분에 응력 집중을 유발되는 것을 Fig. 14에서 보여준다[8]. 최대 응력은 1530 MPa까지 도달 할 수 있다. 더욱이, 앵커의 변형은 시멘트 버너내에서 강관의 변형을 야기하고 Fig. 15내에 보여지는 응력 분포를 만들어 낸다.
 
 
 4. 앵커 형태에 따른 버너의 열응력 분석
 
 4.1 열장(Thermal Field) 시뮬레이션의 분석 결과들
 
-우리의 일상적인 제조에 널리 쓰이는 3 가지 앵커가 있습니다. 세 가지 유형 앵커는 U 유형 앵커, Y 유형 앵커 및 웨이브 유형 앵커입니다. 따라서이 백서는 작업 할 때 세 가지 유형의 앵커에 중점을 둡니다. 온도 구름은 Fig. 16.
-무화과. 그림 16에서 보듯이 앵커의 온도 장과 버너의 파이프 이미지는 앵커의 종류에 따라 달라진다. 가장 높은 온도는 U와 파 앵커 시멘트 버너 용 파이프에 분포하며 Y 앵커의 가장 높은 온도는 앵커에있다 [9]. 또한 시멘트 버너가 전체적으로 고려 될 때 작동 온도는 Y가 가장 낮고 U가 가장 높습니다.
+우리의 일상적인 생산에 널리 쓰이는 3 가지 유형의 앵커가 있다. 세 가지 유형 앵커는 U 유형 앵커, Y 유형 앵커 및 웨이브 유형 앵커이다. 이 논문은 작업 시 세 가지 유형의 앵커에 중점을 둔다. 온도 구름은 Fig. 16에 나타내었다.
+Fig. 16에서, 앵커와 버너 파이프의 온도장 이미지가 앵커의 유형에 따라 변하는 것을 본다. U와 웨이브 앵커의 시멘트 버너에서는 파이프에서 가장 높은 온도 분포를 보이고, 반면에 Y 앵커는 앵커에서 가장 높다[9]. 또한 시멘트 버너를 전체적으로 고려할 때 작동 온도는 Y가 가장 낮고 U가 가장 높다.
 
 4.2 응력장(Stress Field) 시뮬레이션 분석 결과
 
-그러나 실제 생산시, 시멘트 버너는 온도 장을 가질뿐만 아니라 응력 장 [10]을 가지고있다. 그래서 우리는 스트레스 분야를 고려할 것입니다. 그리고 그 응력장은 Fig. 17 ~ 19.
-응력 등고선으로부터. 도 17 내지도 17을 참조한다. 19는 시멘트 버너가 전체적으로 고려 될 때 Y- 앵커 시멘트 버너가 가장 잘 수행되고 나머지 두 개는 더 나 빠진다는 것을 보여준다 [11]. 게다가 파이프에 휘말린 앵커의 뿌리에 가장 높은 스트레스가 들어간다는 것을 알 수 있습니다. 한마디로, 앵커의 모양은 구조 응력 분포에 큰 영향을 미칩니다. 시멘트 버너의 열 응력 해석을 바탕으로 표 1과 표 2와 같이 온도와 응력장을 구한다.
+그러나 실제 생산시, 시멘트 버너는 온도장을 가질뿐만 아니라 응력장도 가진다[10]. 이에 우리는 응력장를 고려할 것이다. 그리고 그 응력장은 Fig. 17 ~ Fig. 19에 나타내었다.
+Fig. 17 ~ Fig. 19 응력 등고선으로부터, 시멘트 버너를 전체적으로 고려할 때, Y- 앵커 시멘트 버너가 가장 우수하고, 나머지 두 개는 더 열위하다는 것을 보여준다[11]. 게다가 파이프에 용접된 앵커의 뿌리에 가장 높은 스트레스가 걸리는 것을 알 수 있다. 다시 말하면, 앵커의 모양은 구조 응력 분포에 큰 영향을 미친다. 시멘트 버너의 열 응력 해석을 바탕으로 Table 1과 Table 2와 같은 온도와 응력장을 얻었다.
 
 
 
 5. 결론
 
 CAE 시뮬레이션 분석의 결과에 따르면 :
-1) 시멘트 버너의 캐스터 블, 버너의 앵커링 부 및 강관이 사다리 분포가 모두 내부에서 외부로 증가한다는 온도 필드 분포도의 시뮬레이션 결과로부터 알 수 있습니다. 이 결과는 실제로 모든 부품의 온도 조건과 동일합니다.
-2) 변위 변형 구름 그래프에 따르면, 캐스터 블이 근접한 끝단의 가장 바깥 쪽 층은 가장 큰 변위 변형을 가지며 앵커링 부분과의 접촉 부분의 응력은 상대적으로 높다. 이러한 종류의 응력과 변형은 최종적으로 끝단 근처에있는 외부 캐스터 블 (castable)로 이어질 수 있습니다. 이 시뮬레이션 결과는 기본적으로 실용 엔지니어링 응용 프로그램에서 버너의 캐스터 블 엔드의 창고 형태로 계산합니다.
-3) 앵커링 부의 변위 변형과 응력의 분포에 따라 앵커링 부의 근원에 앵커링 부분을 전체적으로 끌어 올릴 수있는 응력이 집중되었다. 실용적인 손상 조건 (그림 2, 그림 4)과 비교할 때, 시뮬레이션 분석 결과는 앵커링 부분의 실제 손상 상태를 나타냅니다.
-4) 비록 Fig. 도 16에 도시 된 바와 같이, 앵커의 응력은 다른 부품의 응력보다 크며, 이는 앵커의 파손이 주로 버너의 손상을 야기한다는 것을 의미한다. 따라서 다양한 앵커는 시멘트 버너의 수명에 큰 영향을 미칩니다.
-5) 그림 16에 따르면, 최고 온도가 캐스터 블에 있고 가장 높은 응력이 앵커에 있음을 알 수 있습니다. 3 가지 유형의 시멘트 버너의 열 응력장을 분석 한 결과, U- 앵커 시멘트 버너가 가장 잘 수행된다는 결론을 얻을 수 있습니다.
+1) 시멘트 버너의 캐스터블, 버너의 앵커부 및 강관이 사다리 분포가 모두 내부에서 외부로 증가한다는 온도장 분포 구름의 시뮬레이션 결과로부터 알 수 있습니다. 이 결과는 실제로 모든 부품의 온도 조건과 동일합니다.
+2) 변위 변형 구름 그래프에 따르면, 캐스터블이 근접한 선단의 가장 바깥 쪽 층은 가장 큰 변위 변형을 가지며 앵커 부분과의 접촉 부분의 응력이 상대적으로 높다. 이러한 종류의 응력과 변형은 최종적으로 끝단 근처 외곽 캐스터블의 탈락을 야기할 수 있다. 이 시뮬레이션 결과는 기본적으로 실제 공학적 사용시 버너 캐스터블 선단의 탈락 형태와 일치한다.
+3) 앵커부의 변위 변형과 응력의 분포에 따라면, 앵커부의 뿌리에서 앵커 부분을 전체적으로 끌어 올리려는 마찰로 인하여 응력이 집중되었다. 실제적인 손상 조건 (그림 2, 그림 4)과 비교할 때, 시뮬레이션 분석 결과는 앵커 부분의 실제 손상 상태과 일치한다.
+4) 비록 Fig. 16에 도시 된 바와 같이, 앵커의 응력은 다른 부품의 응력보다 크며, 이는 앵커의 파손이 주로 버너의 손상을 야기한다는 것을 의미한다. 따라서 다양한 앵커는 시멘트 버너의 수명에 큰 영향을 미친다.
+5) Fig. 16에 따르면, 최고 온도가 캐스터블에 있고 가장 높은 응력은 앵커에 있음을 알 수 있다. 3 가지 유형의 시멘트 버너의 열응력장을 분석한 결과, U-앵커 시멘트 버너가 가장 우수하다는 결론을 얻을 수 있다.
+
 
 
 참고 문헌
@@ -112,11 +114,12 @@ References
 [1]. Bai Hong-Gong, Xu Kai-Feng, Reason for destruction of castable in coal burner and its treatment, Cement Engineering, Issue 8, 2006, pp. 16-17.
 [2]. Zhao Xiao-Dong, Measure of improving the service life of refractory castables in burner, Cement Engineering, Issue 1, 2001.
 [3]. Wang Zhi-Gang, Numerical simulation of temperature and stress field of ladle lining on the bottom, Energy for Metallurgical Industry, Issue 4, 2004, pp. 16-19.
-[4]. Wei Rui-Yan, Mechanical property test on steel structure in condition of high temperature, Journal of Fujian College Architecture, March 2002, pp. 5-9.
-[5] E. S. Chen, M. H. Frechette, Thermal and thermomechanical evaluation of high-strength insulation in steelmaking ladle, in Proceedings of the Conference on Steelmaking, 1996, pp. 457-463.
+[4]. Wei Rui-Yan, Mechanical property test on steel structure in condition of high temperature, Journal of Fujian College Architecture, March 2002, pp. 5-9. [5] E. S. Chen, M. H. Frechette, Thermal and thermomechanical evaluation of high-strength insulation in steelmaking ladle, in Proceedings of the Conference on Steelmaking, 1996, pp. 457-463.
 [6]. Yang Shi-Ming, Tao Wen-Quan, Heat transfer, Higher Education Press, Beijing, 1998.
 [7]. Zhang Guo-Zhi, Hu Ren-Xi, Chen Ji-Gang, ANSYS10.0, Thermodynamic finite element analysis, Machinery Industry Press, Beijing, 2007.
-[8]. Sun Ying, Zhang Mai-Cang, Dong Jian-Xing, Q235 The deformation characteristics of steel heat, Journal of Iron and Steel Research, Issue 5, 2006.
-[9]. Shao Hong-Yan, Analysis of the stress field of structural temperature field and temperature, Master's degree thesis, Xian Northwestern Polytechnical University, 2001.
+[8]. Sun Ying, Zhang Mai-Cang, Dong Jian-Xing, Q235 The deformation characteristics of steel heat, Journal of Iron and Steel Research, Issue 5, 2006. [9]. Shao Hong-Yan, Analysis of the stress field of structural temperature field and temperature, Master's degree thesis, Xian Northwestern Polytechnical University, 2001.
 [10]. Jiang Xu-Lv, The development of process and burner coal technology for cement rotary klin, The New Century Cement, 5, 2002.
 [11]. Li Zu-Xi, Improvement of coal injection pipe single channel, Cement Technology, 6, 1999.
+
+
+원문 자료 : http://www.sensorsportal.com/HTML/DIGEST/september_2014/Vol_179/P_2422.pdf
