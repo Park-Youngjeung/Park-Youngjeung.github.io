@@ -122,9 +122,14 @@ OEM의 운영자 및 내화물 설계자는 다양한 응용 분야에서 선택
 ### 참고 문헌
 
 [1] "Refractory Engineering" Ed Dr C. Schacht. Marcel Dekker, NY, 2004
+
 [2] “Refractory Engineering, Materials, Design, Construction” (sponsored by Deutsche Gessellschaft Feurfrest und Schornsteinbau) Ed Dr A. Nowak, Vulkan-Verlag, Essen 2005.
+
 [3] "Analysis of thermally induced fracture in low cement refractory rings”, Palmer G. B. & Baker G., Ceramic Bulletin, vol 69, No. 6, 1990
+
 [4] Sandvik commercial data
 
 
-원문 : UNITECR 2017 p371-374
+
+
+> 원문 : UNITECR 2017 p371-374
