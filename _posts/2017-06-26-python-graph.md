@@ -9,8 +9,12 @@ date:   2017-06-24 19:46:00
 ## 파이썬을 이용해서 XRD 원본 Data(csv)를 읽어 오는 법
 
 csv파일 읽어 오기 (현재의 폴더내에 '파일이름.csv'가 있을때)
+
+
     import pandas as pd
     rawData = pd.read_csv('파일이름.csv')
+
+    
 파일이름.csv가 다른 폴더에 있으면 경로를 같이 기록해 주어야 한다.
 
 
