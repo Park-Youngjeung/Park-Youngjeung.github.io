@@ -43,9 +43,7 @@ Modify Markdown Files 부분은 잘 몰라서 생략한다.
 
 2. 적절한 결로에 마크다운으로 이미지 참조를 수정한다. 결로는 중괄호(}) 두개와 쌍따옴표('"')로 감싼다.
 
-'''
-![png]({{"/assets/images/example_notebook_5_0.png"}})
-'''
+'''![png]({{"/assets/images/example_notebook_5_0.png"}})'''
 
 /assets/images/ 경로로 되어 있는데, 내 경로는 그냥 /images이다.
 
@@ -559,7 +557,7 @@ plt.show()
 ```
 
 
-![png](output_6_0.png)
+![png]({{"/images/output_6_0.png"}})
 
 
 
@@ -570,7 +568,7 @@ plt.show()
 ```
 
 
-![png](output_7_0.png)
+![png]({{"/images/output_7_0.png"}})
 
 
 
@@ -584,7 +582,7 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![png]({{"/images/output_8_0.png"}})
 
 
 
@@ -618,7 +616,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png]({{"output_11_0.png"}})
 
 
 
@@ -786,4 +784,4 @@ plt.show()
 ```
 
 
-![png](output_14_0.png)
+![png]({{"/images/output_14_0.png"}})
