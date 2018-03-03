@@ -5,7 +5,9 @@ date:   2018-03-04 01:00:00
 ---
 
 
-#Juputer Notebook을 Jekyll로 변경하는 방법
+Juputer Notebook을 Jekyll로 변경하는 방법
+======================================
+
 파이썬으로 데이터 주무르기라는 책을 공부 중인데, 여기서 Jupyter Notebook으로 실행한 내용을 Jekyll로 옮기는 방법을 기술함
 
 
@@ -15,12 +17,10 @@ date:   2018-03-04 01:00:00
 [Display Jupyter Notebook with Jekyll](https://linode.com/docs/applications/project-management/jupyter-nobook-on-jekyll "title")
 
 
-상기 링크에서 설명하는 바에 따르면 Notebook의 File > Download As > Markdown (.md)에서 다운을 받을 수 있다. 다른 방법으로는 ipynb파일을 command line에서 직접적으로 생성한 수 있다.
+상기 링크에서 설명하는 바에 따르면 Notebook의 File > Download As > Markdown (.md)에서 다운을 받을 수 있다. 다른 방법으로는 ipynb파일을 command line에서 직접적으로 생성할 수 있다.
 
 
-'''
-jupyter nbconvert --to markdown /path/to/example_notebook.ipynb
-'''
+'''jupyter nbconvert --to markdown /path/to/example_notebook.ipynb'''
 
 
 다음 3, 4항은 마크다운 파일 만드는 것에 대해 이야기하는데, 알고 있으므로 생략한다.
@@ -29,9 +29,7 @@ jupyter nbconvert --to markdown /path/to/example_notebook.ipynb
 5번항은 jupyter에서 내보낸 마크다운 파일 내용을 새로운 포스트 파일에 붇여 넣는 내용이다.
 
 
-'''
-cat example_notebook.md | tee -a exampleblog/_post/YYYY-MM-DD-example-post.md
-'''
+'''cat example_notebook.md | tee -a exampleblog/_post/YYYY-MM-DD-example-post.md'''
 
 
 Modify Markdown Files 부분은 잘 몰라서 생략한다.
