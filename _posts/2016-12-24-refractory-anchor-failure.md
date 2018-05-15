@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Failure Analysis of Refractory Anchors of a Power Boiler"
