@@ -14,7 +14,7 @@ date:   2018-06-14 22:00:00
 
 
 
-![book image](/images/20180614-01.jpg)
+![book image](/images/20180614-01.png)
 
 
 
