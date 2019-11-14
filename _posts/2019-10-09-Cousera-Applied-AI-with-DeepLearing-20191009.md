@@ -30,3 +30,6 @@ IBM buxon IoT platform를 사용한 MQTT 메세지 브로커
 Watson machine learning모델 개발에 사용
 
 등을 다룬다.
+
+
+**1주 수강하고 결국은 못 들었다.**
