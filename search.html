@@ -1,0 +1,22 @@
+---
+layout: searchList
+title: Search
+permalink: /search/
+public: true
+---
+ <div id="home-screen">
+     <script>
+	     (function() {
+		     var cx = '나의 구글 맞춤 검색 코드';
+			 var gcse = doment.createElement('script');
+			 gcse.type = 'text/javascript';
+			 gcse.async = true;
+			 gcse.src = 'https://cse.googlecode.com/cse.js?cx=' + cx;
+			 var s = document.getElementsByTagName('script')[0];
+			 s.parentNode.insertBefore(gcse, s);
+	     }) ();
+	</script>
+	<gcse:search linkTarget="_parent" queryParmeterName="searchString"></gcse:search>
+ </div>
+
+	
