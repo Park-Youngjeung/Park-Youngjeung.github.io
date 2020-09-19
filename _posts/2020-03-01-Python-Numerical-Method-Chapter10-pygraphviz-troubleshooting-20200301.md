@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  파이썬 pygraphviz 라이브러1 구글 Colab에서 사용하기
+title:  파이썬 pygraphviz 라이브러리 구글 Colab에서 사용하기
 date:   2020-03-01 01:10:00
 ---
 
